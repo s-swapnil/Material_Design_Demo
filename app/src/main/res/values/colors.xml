@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8e24aa</color>
+    <color name="colorPrimaryDark">#5c007a</color>
+    <color name="colorAccent">#40c4ff</color>
+    <color name="colorError">#ff5252</color>
+    <color name="colorBackground">#ffffff</color>
+    <color name="colorItem">#000000</color>
+    <color name="colorRaisedBtn">#673AB7</color>
+    <color name="colorRaisedBtnText">#ffffff</color>
+    <color name="colorFlatBtn">#2196f3</color>
+    <color name="colorFloatBtn">#e040fb</color>
+    <color name="colorSwitch">#0277bd</color>
+    <color name="colorCheckBoxOn">#ff5252</color>
+    <color name="colorCheckBoxOff">#ffab40</color>
+    <color name="colorRadioBtn">#69f0ae</color>
+    <color name="colorProgressBar">#e040fb</color>
+    <color name="colorAlertDialog">#448aff</color>
+    <color name="colorConfirmDialog">#64ffda</color>
+    <color name="colorSnackBarBG">#5c007a</color>
+    <color name="colorSnackBarText">#FFFFFF</color>
+    <color name="colorSnackBarAction">#69f0ae</color>
+    <color name="colorBottomNav">#009688</color>
+    <color name="colorTabTitle">#ffffff</color>
+    <color name="colorCardBG">#f5f5f5</color>
+    <color name="colorCardInternalBG">#ffffff</color>
+    <color name="colorSeekbar">#219653</color>
+    <color name="colorLoadRefresh">#ff9800</color>
+    <color name="colorFinishRefresh">#4caf50</color>
+</resources>

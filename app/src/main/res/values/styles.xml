@@ -1,0 +1,62 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+        <item name="popupTheme">@style/PopoUpTheme</item>
+    </style>
+
+    <style name="PopoUpTheme" parent="Theme.AppCompat.Light">
+        <item name="android:background">@color/colorBackground</item>
+        <item name="android:textColor">@color/colorItem</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+    <style name="CharacterOverflow">
+        <item name="android:textColor">@color/colorError</item>
+    </style>
+    <style name="RaisedBtn" parent="Widget.AppCompat.Button.Colored">
+        <item name="backgroundTint">@color/colorRaisedBtn</item>
+        <item name="android:textColor">@color/colorRaisedBtnText</item>
+    </style>
+    <style name="FlatBtn" parent="Widget.AppCompat.Button.Borderless">
+<item name="android:textColor">@color/colorFlatBtn</item>
+    </style>
+    <style name="SwitchTheme">
+        <item name="colorAccent">@color/colorSwitch</item>
+    </style>
+    <style name="CheckBoxTheme">
+        <item name="colorAccent">@color/colorCheckBoxOn</item>
+        <item name="colorControlNormal">@color/colorCheckBoxOff</item>
+    </style>
+    <style name="RadioBtnTheme">
+        <item name="colorAccent">@color/colorRadioBtn</item>
+
+    </style>
+    <style name="ProgressBarTheme" parent="Widget.AppCompat.ProgressBar">
+        <item name="colorAccent">@color/colorProgressBar</item>
+    </style>
+    <style name="ConfirmationDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/colorConfirmDialog</item>
+    </style>
+<style name="BottomNavTheme" parent="Widget.MaterialComponents.BottomNavigationView">
+    <item name="colorPrimary">@color/colorBottomNav</item>
+</style>
+    <style name="AppTheme.NoActionBarCollapse">
+
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+    <style name="seekbarTheme" parent="Widget.AppCompat.SeekBar">
+        <item name="colorAccent">@color/colorSeekbar</item>
+    </style>
+</resources>
